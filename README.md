@@ -77,7 +77,7 @@ Our short-form videos go from raw takes to Instagram, Facebook, YouTube and TikT
 <td width="50%" valign="top">
 <a href="https://github.com/KChyska/web-portfolio"><img src="assets/projects/web-portfolio.jpg" alt="Websites"/></a><br/>
 <b><a href="https://github.com/KChyska/web-portfolio">Websites</a></b><br/>
-Live sites from our studio — fast, made for mobile, built to bring in inquiries. <i>For local businesses.</i>
+18 live sites from our studio — financial advisors, real estate, law, cars, trades and childcare. Fast, made for mobile, built to bring in inquiries. <i>For local businesses.</i>
 </td>
 </tr>
 <tr>
