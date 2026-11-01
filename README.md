@@ -10,9 +10,32 @@ We build for Czech companies — construction firms, trades, sales teams, local 
 - **Systems that replace the paperwork** — CRMs, invoices, timesheets, reporting.
 - **Websites that bring in inquiries** — and the assistants that answer them.
 
-I run my own business the same way: a personal AI assistant handles my day, and our short-form videos are made in-house.
+I run my own business the same way — with Jarvis, my AI colleague.
 
 <sub>CZ — Vedu Moderní Komunikaci a Autevio. Stavíme pro české firmy weby a AI automatizace: asistenty, kteří telefonují česky, systémy, které nahradí papírování (CRM, faktury, výkazy), a weby, které přivedou poptávky.</sub>
+
+---
+
+### Meet Jarvis — my AI colleague
+
+<p align="center">
+  <a href="https://github.com/KChyska/jarvis-assistant"><img src="assets/jarvis/gallery.webp" width="100%" alt="Karel and Jarvis together: photos from our reels, Jarvis on a call, on the TV, on the iPhone, on the Mac and in the daily dashboard"/></a>
+</p>
+
+Jarvis works next to me every day, like a colleague who never goes home. Whatever a great assistant would do, he does — start to finish, 1:1 like a person.
+
+- **Talks on the phone like a real person** — I call him from my iPhone or Mac and we just talk. He phones people and answers in natural Czech.
+- **Writes my emails and messages** — in my tone. I read it, approve it, done.
+- **Runs my calendar** — books the meeting, sends the invitation, reminds me before anything slips.
+- **Edits our videos** — cuts the reels, adds subtitles and covers, gets them ready to post.
+- **Builds websites** — from the first draft to a live preview.
+- **Keeps an eye on the business** — new inquiries, follow-ups, deadlines and everything waiting on my OK, every morning.
+- **Takes the meeting notes** — what was said, what was promised, what to do next.
+- **Does the homework before a call** — who the company is, who decides, what they need.
+- **Remembers everything** — what a client wanted, what we promised, what I said weeks ago.
+- **Works 24/7** — on my Mac, iPhone and TV, often on several things at once.
+
+<sub>CZ — Jarvis je můj AI kolega. Telefonuje jako skutečný člověk, píše maily a zprávy, vede kalendář, stříhá videa, staví weby, hlídá firmu, dělá zápisy ze schůzek a pracuje 24/7 na Macu, iPhonu i televizi. <a href="https://github.com/KChyska/jarvis-assistant">Víc o Jarvisovi →</a></sub>
 
 ---
 
@@ -42,7 +65,7 @@ Invoices and crews' hours sorted to the right job every morning — the owner on
 <td width="50%" valign="top">
 <a href="https://github.com/KChyska/jarvis-assistant"><img src="assets/projects/jarvis.jpg" alt="Jarvis personal AI assistant"/></a><br/>
 <b><a href="https://github.com/KChyska/jarvis-assistant">Jarvis — my AI assistant</a></b><br/>
-I talk to it from my iPhone and it keeps my day on the TV. <i>Built for myself; we build similar assistants for companies.</i>
+Calls, emails, calendar, videos, websites — like a person on my team, 24/7. <i>Built for myself; we build similar assistants for companies.</i>
 </td>
 </tr>
 <tr>
